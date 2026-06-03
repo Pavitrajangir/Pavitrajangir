@@ -1,18 +1,81 @@
-# 💫 About Me:
-Hi, I’m @Pavitrajangir 👋<br>👀 I’m interested in Frontend Development and Data Science<br>🌱 I’m currently strengthening my skills in modern frontend technologies<br>(HTML, CSS, JavaScript, React) along with Python, Data Analysis,<br>and Machine Learning.<br>💞️ I’m looking to collaborate on frontend projects and data-driven<br>applications that solve real-world problems and enhance user experience.<br>📫 How to reach me: pavitrajangir86@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy turning complex problems into clean UI and meaningful insights from data.
+# About Me
 
+I am a MERN Stack Developer with a strong interest in building scalable, responsive, and user-centric web applications.
+
+Currently, I am enhancing my expertise in:
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* JavaScript (ES6+)
+* Redux
+* REST APIs
+
+My primary focus is on full-stack web development, backend architecture, authentication systems, database design, and application deployment.
+
+I am open to collaborating on MERN Stack projects, open-source contributions, and innovative web applications that solve real-world problems.
+
+In addition to web development, I have a keen interest in Data Structures & Algorithms, System Design, and Artificial Intelligence/Machine Learning.
+
+**Email:** [pavitrajangir86@gmail.com](mailto:pavitrajangir86@gmail.com)
+**GitHub:** https://github.com/Pavitrajangir
+
+*"Building efficient, scalable, and impactful digital solutions through clean code and thoughtful design."*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavitra-jangir18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavitrajangir86@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pavitrajangir&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pavitrajangir&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitrajangir&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Technical Skills
+
+### Frontend Development
+React.js,
+Redux Toolkit
+Context API
+Tailwind CSS
+Bootstrap
+GSAP
+HTML5
+CSS3
+Responsive Web Design
+
+### Backend Development
+Node.js
+Express.js
+RESTfulAPIs
+JWTAuthentication
+Middleware
+MVCArchitecture
+Firebase Authentication
+
+\
+
+### Databases
+
+\
+
+### Programming Languages
+Python
+JavaScript(ES6+)
+C/C++
+SQL
+TypeScript
+\
+
+### Tools & Devops
+Git
+GitHub
+Postman
+Docker
+GitHubActions
+CI/CD Basics
+VSCode
+\
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pavitrajangir&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Profile Views
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
