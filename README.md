@@ -1,5 +1,49 @@
-# 💫 About Me:
-I am a MERN Stack Developer with a strong interest in building scalable, responsive, and user-centric web applications.<br><br>Currently, I am enhancing my expertise in:<br><br>MongoDB<br>Express.js<br>React.js<br>Node.js<br>JavaScript (ES6+)<br>Redux<br>REST APIs<br>My primary focus is on full-stack web development, backend architecture, authentication systems, database design, and application deployment.<br><br>I am open to collaborating on MERN Stack projects, open-source contributions, and innovative web applications that solve real-world problems.<br><br>In addition to web development, I have a keen interest in Data Structures & Algorithms, System Design, and Artificial Intelligence/Machine Learning.<br><br>Email: pavitrajangir86@gmail.com GitHub: https://github.com/Pavitrajangir<br><br>"Building efficient, scalable, and impactful digital solutions through clean code and thoughtful design."
+# About Me:
+# Hi, I'm Pavitra Jangir
+
+I'm an **AI Engineer** focused on building applications powered by Large Language Models (LLMs). I'm a **2026 B.Tech graduate in Information Technology**, combining a full-stack development background with hands-on learning in Generative AI.
+
+<br>
+
+## What I Work With
+
+**LLM Fundamentals**
+<br>Tokens, Prompt Engineering, Prompt Chaining, Streaming, Structured Outputs
+
+**Retrieval-Augmented Generation (RAG)**
+<br>Document Chunking, Embeddings, Vector Databases, Semantic Search, RAG Evaluation
+
+**AI Agents**
+<br>ReAct, Tool Calling, LangGraph, Multi-Agent Systems, Model Context Protocol (MCP)
+
+**Machine Learning & Data**
+<br>Python, SQL, Scikit-learn, Pandas, NumPy, Model Evaluation
+
+**Full-Stack Development**
+<br>React.js, Node.js, Express.js, MongoDB, JavaScript (ES6+), REST APIs
+
+<br>
+
+## Currently Learning
+
+I'm deepening my knowledge of advanced retrieval techniques, AI agent evaluation, and production engineering to build reliable and scalable AI applications.
+
+<br>
+
+##  What I'm Looking For
+
+I'm open to opportunities as an **AI Engineer, Generative AI Engineer, or AI-focused Full-Stack Developer**. I'm also interested in collaborating on LLM-powered applications, AI projects, and open-source contributions. **I'm open to relocation.**
+
+<br>
+
+## Let's Connect
+
+- **Email:** [pavitrajangir86@gmail.com](mailto:pavitrajangir86@gmail.com)
+- **GitHub:** [Pavitrajangir](https://github.com/Pavitrajangir)
+
+<br>
+
+💡 *Building useful, reliable AI applications through thoughtful engineering and continuous learning.*
 
 
 ## 🌐 Socials:
