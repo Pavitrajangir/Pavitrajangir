@@ -50,12 +50,12 @@ I'm open to opportunities as an **AI Engineer, Generative AI Engineer, or AI-foc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavitra-jangir18/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavitrajangir86@gmail.com) <br>
 
 # 💻 Tech Stack:
-Languages: Python, JavaScript (ES6+), TypeScript, SQL, C++ <br>
-AI & GenAI: LLM Applications, Prompt Engineering, RAG (Embeddings, Vector DBs, Evaluation), AI <br>
+**Languages:** Python, JavaScript (ES6+), TypeScript, SQL, C++ <br>
+**AI & GenAI:** LLM Applications, Prompt Engineering, RAG (Embeddings, Vector DBs, Evaluation), AI
 Agents, LangGraph (Multi-Agent), MCP, Function Calling, Structured Outputs<br>
-Web Development: React.js, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication<br>
-Machine Learning: Scikit-learn (Logistic Regression, Random Forest, KNN, SVM)<br>
-Database & DevOps: MongoDB, Qdrant, Vector Databases, Git, GitHub, Docker, GitHub Actions<br>
+**Web Development:** React.js, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication<br>
+**Machine Learning:** Scikit-learn (Logistic Regression, Random Forest, KNN, SVM)<br>
+**Database & DevOps:** MongoDB, Qdrant, Vector Databases, Git, GitHub, Docker, GitHub Actions<br>
 <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Pavitrajangir&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
